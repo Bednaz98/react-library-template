@@ -18,9 +18,7 @@
     "pr-test": "npm run test",
     "test-pack": "npm i && npm run build && npm pack"
   },
-  "dependencies": {
-    "@jabz/client-db-logger": "^1.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/preset-env": "^7.22.20",
     "@babel/preset-react": "^7.22.15",
